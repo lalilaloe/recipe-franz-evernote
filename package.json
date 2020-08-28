@@ -1,0 +1,23 @@
+{
+  "id": "evernote",
+  "name": "Evernote",
+  "version": "1.0.0",
+  "description": "Evernote",
+  "main": "index.js",
+  "author": "lalilaloe",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.evernote.com/",
+    "serviceName": "Evernote",
+    "message": "Evernote",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "customURL": false,
+    "hasTeamID": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
